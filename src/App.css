@@ -1,0 +1,87 @@
+/* nav start */
+.navbar{
+   background-color: #ee1860;
+}
+ 
+
+/* nav end */
+
+/* Jumbo start  */
+.jumbotron{
+ background-image: url(./images/pic11.jpg); 
+ height: 600px;
+ background-size: cover;
+}
+.display-4{
+  text-align: center;  
+  margin-top: 120px;
+  color: white;
+}
+
+
+
+#ourProg{
+   background-color: #ee1860;
+   margin-top: 30px;
+   height: 250px;
+}
+/* Jmbo end */
+
+/* cards start */
+.card-title{
+  text-align: center;
+}
+.card-text{
+  text-align: justify;
+  color: white;
+}
+li{
+  list-style-type: none;
+}
+.card-subtitle{
+  text-align: center;
+}
+
+.programmeList{
+  text-align: center;
+}
+/* cards end */
+
+/* footer begin */
+.footer{
+  background-color: #30449b;
+  padding-top: 30px;
+}
+
+#iconList{
+  padding-bottom: 20px;
+}
+
+.myIcon{
+  margin-right: 10px;
+}
+/* footer end */
+
+/* progs start */
+#prog{
+margin-top: 50px;
+}
+
+
+
+@media (max-width:986px){
+  #ourProg{
+    max-height: 800px;
+  }
+}
+
+/* progsEnd */
+
+#vid{
+  text-align: center;
+    margin-top: 50px;
+}
+iframe{
+  width: 100%;
+  height:680px;
+}
